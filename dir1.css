@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(236, 236, 142);
+}
+
+.left {
+    background-color: beige;
+    width: 13%;
+    height: 962px;
+    padding: 10px;
+    text-align: center;
+    margin: 0;
+    float: left;
+}
+
+.right {
+    width: 42%;
+    text-align: center;
+    height: 962px;
+    padding: 10px;
+}
+
+.left, .right {
+    display: inline-block;
+    margin: 0;
+}
+
+.insideright {
+    background-color: beige;
+    width: 30vh;
+    height: 50vh;
+    margin-left: 90%;
+    padding: 10px;
+    border: 10px;
+    border-color: black;
+    outline: 10px;
+    outline-color: black;
+}
+
+h1 {
+    margin: 0;
+}
+
+.Mimic {
+    width: 150px;
+    margin-top: 10px;
+}
